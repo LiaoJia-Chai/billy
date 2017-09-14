@@ -1,0 +1,62 @@
+#
+# Copyright (C) 2017 Premium Minds.
+#
+# This file is part of billy france (FR Pack).
+#
+# billy france (FR Pack) is free software: you can redistribute it and/or modify it under
+# the terms of the GNU Lesser General Public License as published by the Free
+# Software Foundation, either version 3 of the License, or (at your option) any
+# later version.
+#
+# billy france (FR Pack) is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+# A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+# details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with billy france (FR Pack). If not, see <http://www.gnu.org/licenses/>.
+#
+
+# Contexts              
+context.france.uuid = placeholder
+context.france.continental.uuid = placeholder
+
+context.france.alsace.uuid = placeholder
+context.france.aquitaine.uuid = placeholder
+context.france.auvergne.uuid = placeholder
+context.france.bassenormandie.uuid = placeholder
+context.france.bourgogne.uuid = placeholder
+context.france.bretagne.uuid = placeholder
+context.france.centre.uuid = placeholder
+context.france.champagne_ardenne.uuid = placeholder
+context.france.corse.uuid = placeholder
+context.france.franche_comte.uuid = placeholder
+context.france.hautenormandie.uuid = placeholder
+context.france.ile_de_france.uuid = placeholder
+context.france.languedoc_roussillon.uuid = placeholder
+context.france.limousin.uuid = placeholder
+context.france.lorraine.uuid = placeholder
+context.france.midipyrenees.uuid = placeholder
+context.france.nord_pas_de_calais.uuid = placeholder
+context.france.pays_de_la_loire.uuid = placeholder
+context.france.picardie.uuid = placeholder
+context.france.poitou_charentes.uuid = placeholder
+context.france.provence_alpes_cote_d_azur.uuid = placeholder
+context.france.rhonealpes.uuid = placeholder
+                                                         
+# Taxes
+context.france.tax.exempt.uuid = placeholder
+context.france.tax.exempt.value = 0
+
+# Continental
+context.france.continental.tax.vat.normal.uuid = placeholder
+context.france.continental.tax.vat.normal.percent = 20
+
+context.france.continental.tax.vat.intermediate.uuid = placeholder
+context.france.continental.tax.vat.intermediate.percent = 10
+
+context.france.continental.tax.vat.reduced.uuid = placeholder
+context.france.continental.tax.vat.reduced.percent = 5.5
+
+context.france.continental.tax.vat.super_reduced.uuid = placeholder
+context.france.continental.tax.vat.super_reduced.percent = 2.1
